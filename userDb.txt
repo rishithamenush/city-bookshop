@@ -1,0 +1,4 @@
+jane456,securepass789,Manager
+user1,user123,Cashier
+ezio,temp,Cashier
+john123,password123,Cashier

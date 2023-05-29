@@ -1,0 +1,10 @@
+The Great Gatsby,Fiction,9.99,20
+To Kill a Mockingbird,Fiction,7.99,15
+1984,Fiction,10.99,12
+Pride and Prejudice,Romance,6.99,18
+The Catcher in the Rye,Fiction,8.99,10
+Harry Potter and the Philosopher's Stone,Fantasy,12.99,25 
+
+
+
+
